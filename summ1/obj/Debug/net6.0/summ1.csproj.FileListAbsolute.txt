@@ -1,0 +1,15 @@
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\bin\Debug\net6.0\summ1.exe
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\bin\Debug\net6.0\summ1.deps.json
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\bin\Debug\net6.0\summ1.runtimeconfig.json
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\bin\Debug\net6.0\summ1.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\bin\Debug\net6.0\summ1.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.csproj.AssemblyReference.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.AssemblyInfoInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.AssemblyInfo.cs
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.csproj.CoreCompileInputs.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\refint\summ1.dll
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.pdb
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\summ1.genruntimeconfig.cache
+C:\Users\alexb\OneDrive\Рабочий стол\Sum\summ\summ1\obj\Debug\net6.0\ref\summ1.dll
